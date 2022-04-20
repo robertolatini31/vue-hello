@@ -2,7 +2,8 @@ let app = new Vue (
     {
         el: '#app',
         data: {
-            message: 'Hello VueJS'
+            message: 'Hello VueJS',
+            logo: './assets/img/VueLogo.png'
         }
     }
 )
